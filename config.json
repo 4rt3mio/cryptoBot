@@ -1,0 +1,19 @@
+{
+    "tokens": [
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "threshold": 84600
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "threshold": 1649
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "threshold": 129.0
+        }
+    ]
+}
